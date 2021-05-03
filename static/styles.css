@@ -1,0 +1,22 @@
+*{
+    margin:0;
+    padding: 0;
+}
+.option{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    margin-bottom: 2rem;
+}
+
+.item{
+    display: flex;
+}
+
+.title{
+    margin-bottom: 2rem;
+}
+
+.row{
+    margin-bottom: 1rem;
+}
